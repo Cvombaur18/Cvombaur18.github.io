@@ -1,4 +1,4 @@
-img {
+.picture {
     display: flex;  
     align-items: center;
     clip-path: circle();
@@ -62,3 +62,16 @@ img {
   justify-content: right;
   margin-right: 200px;
 }
+
+.skills {
+   display: flex;
+    margin-left: 65px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .projects {
+    display: flex;
+     margin-left: 100px;
+     margin-right: 100px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }

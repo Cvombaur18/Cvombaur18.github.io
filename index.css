@@ -64,14 +64,42 @@
 }
 
 .skills {
-   display: flex;
-    margin-left: 65px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 18pt;
+    margin-left: 100px;
     margin-right: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
-  .projects {
+  .skills-header {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .projects-header {
+    
     display: flex;
      margin-left: 100px;
      margin-right: 100px;
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    }
+
+   .live {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .demo {
+    display: flex;
+    margin-left: 20px;
+    margin-right: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .poker{
+    display: flex;
+    margin-left: 100px;
+  }
+

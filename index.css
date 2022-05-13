@@ -86,12 +86,12 @@
 
    .live {
     display: flex;
-    margin-left: 450px;
+    margin-left: 500px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .demo {
     display: flex;
-    margin-left: 500px;
+    margin-left: 450px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 

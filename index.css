@@ -80,26 +80,23 @@
   .projects-header {
     
     display: flex;
-     margin-left: 100px;
-     margin-right: 100px;
+     margin-left: 500px;
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    }
 
    .live {
     display: flex;
-    margin-left: 200px;
-    margin-right: 100px;
+    margin-left: 450px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   .demo {
     display: flex;
-    margin-left: 20px;
-    margin-right: 100px;
+    margin-left: 500px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
   .poker{
     display: flex;
-    margin-left: 100px;
+    margin-left: 500px;
   }
 

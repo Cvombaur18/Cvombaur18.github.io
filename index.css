@@ -3,6 +3,10 @@
     align-items: center;
     clip-path: circle();
 }
+.Covid{
+    display: flex;  
+    align-items: left;
+}
 
 
 .navbar {

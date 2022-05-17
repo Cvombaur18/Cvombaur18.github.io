@@ -8,10 +8,9 @@
     align-items: center;
 }
 .Tableau{
-    display: flex;
-    margin-left: 200px;
+   display: flex;
+    margin-left: 20px;
     margin-right: 100px;
-    font-size: 18pt;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 

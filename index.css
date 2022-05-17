@@ -5,9 +5,12 @@
 }
 .Covid{
     display: flex;  
-    align-items: left;
+    align-items: center;
 }
-
+.Tableau{
+    display: flex;  
+    align-items: center;
+}
 
 .navbar {
   display:flex;
